@@ -8,6 +8,8 @@ necessary data in it (this means, DFGH corpus files with correct direcory (chang
 
 
     python preprocess_thukydides.py
+
     python preprocess_DFGH.py
+
     python process_training_csv.py
 
